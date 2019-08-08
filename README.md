@@ -1,4 +1,3 @@
-[toc]
 
 # 简介
 - 为什么使用macOS?
@@ -6,6 +5,7 @@
 
 - 我自已用了很久的mac，总结了不小可以提高生产力的软件和技巧，很多可以说是
 最优的选择了，这里我会分为通用型，和编程相关类型
+
 
 # 通用型
 * 这里不涉及到任何编程相关的
@@ -31,3 +31,8 @@
 
 ## emacs快捷键
 这个绝对是macOS的大招，`ctrl-e` 相当与 windows 的 `end` 键，`ctrl-a` 相当 `home`...还有很多，有了这些快捷键可以让你做到手不用离开键盘，详细快捷键功能查看 https://support.apple.com/zh-cn/HT201236
+
+## 使用chrome
+使用 chrome 的主要原因是  chrome有很多好用的插件， 插件推荐 https://github.com/zhaoolee/ChromeAppHeroes 另外一个原因是 chrome是跨平台的，可以保持我们的使用习惯，减低学习成本
+
+
